@@ -1,0 +1,5 @@
+DS3231.c:8:12:bcd_to_decimal	16	static
+DS3231.c:12:6:ds3231_update	24	static
+DS3231.c:17:9:get_seconds	8	static
+DS3231.c:23:9:get_minutes	8	static
+DS3231.c:29:9:get_hours	8	static
